@@ -1,0 +1,2 @@
+F:\boardgame\Tests\BoardGameTests\obj\Debug\BoardGameTests.csprojAssemblyReference.cache
+F:\boardgame\Tests\BoardGameTests\obj\Debug\BoardGameTests.csproj.CoreCompileInputs.cache

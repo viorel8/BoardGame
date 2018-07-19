@@ -1,0 +1,7 @@
+F:\boardgame\Src\BoardGame\bin\Debug\BoardGame.exe.config
+F:\boardgame\Src\BoardGame\bin\Debug\BoardGame.exe
+F:\boardgame\Src\BoardGame\bin\Debug\BoardGame.pdb
+F:\boardgame\Src\BoardGame\obj\Debug\BoardGame.csprojAssemblyReference.cache
+F:\boardgame\Src\BoardGame\obj\Debug\BoardGame.csproj.CoreCompileInputs.cache
+F:\boardgame\Src\BoardGame\obj\Debug\BoardGame.exe
+F:\boardgame\Src\BoardGame\obj\Debug\BoardGame.pdb
